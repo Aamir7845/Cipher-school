@@ -9,15 +9,15 @@ const List = () => {
 
     let allUsers = [
         {
-            name: "Aamir", email:"asohail@mail.com",
+            name: " Vikas", email:"Vikas@mail.com",
             phone: "24478388238",
         },
         {
-            name: " Prakhar", email:"ps@mail.com",
+            name: " rahul", email:"rahul@mail.com",
             phone: "536487298923",
         },
         { 
-            name: " Ashutosh", email:"asahu@mail.com",
+            name: " rohit", email:"rohit@mail.com",
             phone: "735888374782",
         },
     ];
